@@ -1,9 +1,5 @@
 ### Enzo 
 
-Je suis étudiant en 1ère année du Programme Grande École à **Epitech** Promotion 2030. Passionné depuis petit dans l'informatique, je me spécialise actuellement dans le langage **C**.
-
----
-
 #### Actuellement
 *  Je suis à la recherche d'un **stage de 4 à 6 mois** Début : **Juillet 2026**.
 *  Environnement : **Linux / NVim / VS Code**.
