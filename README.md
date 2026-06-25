@@ -43,7 +43,7 @@
 | Project | Description | Stack |
 | --- | --- | --- |
 | [**42sh**](https://github.com/0xzxzoo/42sh) ⭐ | A tcsh-inspired UNIX shell: command execution, environment variables, pipes, redirections and logical operators via AST parsing | `C` |
-| [**epytodo**](https://github.com/0xzxzoo/epytodo) | Full-stack todo app: TypeScript/Express backend, MySQL database and a JWT-secured REST API | `TypeScript` · `Express` · `MySQL` |
+| [**epytodo**](https://github.com/0xzxzoo/epytodo) | Full-stack todo app: TypeScript/Express backend, MySQL database and a JWT-secured REST API | `TypeScript` `Express` `MySQL` |
 | [**corewar**](https://github.com/0xzxzoo/corewar) | Implementation of the Corewar programming game (assembler + virtual machine) | `C` |
 | [**Setting-Up**](https://github.com/0xzxzoo/Setting-Up) | Environment setup configuration and tooling | `C` |
 
@@ -67,4 +67,4 @@
 - **LinkedIn:** [Enzo UNTERSINGER](https://www.linkedin.com/in/enzo-untersinger-168223343/)
 - **Email:** [enzo.untersinger@epitech.eu](mailto:enzo.untersinger@epitech.eu)
 
-<p align="center"><em>Thanks for stopping by — feel free to explore my projects! 🚀</em></p>
+<p align="center"><em>Thanks for stopping by feel free to explore my projects! 🚀</em></p>
