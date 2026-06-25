@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm Enzo 👋</h1>
 
 <p align="center">
-  <em>2nd-year student at Epitech Strasbourg — passionate about systems, clean code and Linux.</em>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/enzo-untersinger-168223343/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -19,7 +15,7 @@
 ### 🚀 Currently
 
 - 🎓 **2nd-year** student at **Epitech Strasbourg**
-- 🔍 Looking for a **4 to 6 month internship** — starting **July 2026**
+- 🔍 Looking for a **4 to 6 month internship** starting **July 2026**
 - 💻 My setup: **Linux / Neovim / VS Code**
 - 🌱 Always learning by building, from UNIX shells to full-stack web apps
 
